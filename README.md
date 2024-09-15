@@ -1,6 +1,6 @@
-# sca_da_restaurant-tips
 
-## Project Title
+
+## SCA_DA Restaurant-Tips
 ## A brief description of what your project does
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
 ## A description of the data it uses, including
